@@ -1,0 +1,54 @@
+.left-bar {
+    width: 1366px;
+    text-align: center;
+}
+.container-1 {
+    width: 1366px;
+    margin: 0 auto;
+}
+.container {
+    width: 1366px;
+    margin: 5px auto;
+}
+.padding-top {
+    padding: 10px 0px;
+}
+.container-2 {
+    width: 1339px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: rgb(219, 212, 212);
+}
+.search {
+    text-align: center;
+    padding-top: 3px;
+}
+.content {
+    width: 1366px;
+}
+.card {
+    min-height: 100px;
+    max-height: 100px;
+    width: 31.3%;
+    float: left;
+    background-color: #69bdb3;
+    margin: 0 1%;
+    text-align: center;
+}
+.footer {
+    width: 1366px;
+    margin: 0 auto;
+    float: none;
+}
+
+.trademark {
+    margin-top: 50px;
+    text-align: center;
+    font-weight: lighter;
+    float: left;
+    width: 100%;
+}
+
+.clear {
+    clear: both;
+}
